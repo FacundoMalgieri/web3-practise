@@ -1,1 +1,7 @@
-{  "compilerOptions": {    "resolveJsonModule": true,    "esModuleInterop": true,    "target": "es5"  }}
+{
+  "compilerOptions": {
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "es5"
+  }
+}

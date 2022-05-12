@@ -1,1 +1,6 @@
-.env/artifacts//.idea//cache//dist//node_modules/
+.env
+/artifacts/
+/.idea/
+/cache/
+/dist/
+/node_modules/
